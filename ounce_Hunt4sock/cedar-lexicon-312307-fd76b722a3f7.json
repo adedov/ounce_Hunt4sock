@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cedar-lexicon-312307",
+  "private_key_id": "fd76b722a3f778782c4c18fb3eaa7688da9b52da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDMYBDzS58bupmn\nMOddz14ZCqEE0cSLsAUbAnC4qF7j9qZmdopvWMDeOCAXKFD7rSTFEsPh09veUG7l\nDwu6AuuIUEm+JshJPK1GmW082Jn+qAdSuDV/sLsZu+CiV11HGRtpL8M74V0y1UMu\nNuaf3hTwtp6BR2BA8mJCP0gCTXTSZRe32KRD02AUJcpjhlvCtLM47vZ52v5serl0\nJiJWaiejbVIRPNwakE3wWIrqDBd91s7uKNZajinv3lLXt5ZJ5MoBHKvTixX1gyal\nd/Nx1lrx+s9YojKgpb/jPMN5Nyho9LRbVIFQH7xyubXI0tNjetLvB/65EdcueJA+\nPlCl6QtXAgMBAAECgf8fiLMU1xY1sRUENwd78gMS2hD+LV+mLgKbqES8OT5q7iO+\nq4uwooEfyIkrCY11R8HkpoCS152VL9Psg+XLTagJ4FmAfXtp0XLq8cFpIgKgyExY\n9xNKIHq9/b8rTU+XKMiR8kytcJhwv3ceKlprUFjqy0Kpr9mqK7v9fMYflNPxomDb\nfPRILbXSYwURilDYSlSLBM8cjghtEe8MKebIOpAm95BOOZOPkH4tQD8m7i99bZLH\ne0WjWv+xQpMzSFi4JYAlrmEDyFUbGtuCXlyg2zYtKzTTzfdPam4CKwc7iD3cb69J\nVNBd3u1sOvfoT92N1QZdo9cUJKvuGx7HCBZz57kCgYEA7/9C5w25BtgGwkxT/72h\nuYuYX1IP9uzLqxiVWJZs3rDOkg/XMbmfZ5yGuvfbauVvZGudLk/7uXYgP0LWfPRW\niwbwBFgRzDbq+ky5aat8YLZsgAS4KGh94eT7Ca+yyxcQbyRi27E080iDAI8GyVLF\n971Thjv3NSUAUAFQDFQ2E88CgYEA2gC92KAt15y1HxBTg6ZpVX21hhu2pmhVOvZ6\nb13uFd77U01MgaQUMolT7b0xuhLOs7LMIme4cCpK7PPG3v4bZzNTXuvYQL8AG2d7\nUrS8OtSigzNwPVLYijsxSQN0VEpB8sIukOUCzb5BIoKC+rssPl4A6H02LOdEE6Bn\nChdqifkCgYEA27h3J9IIc5uTlI8M2DZkudpzxdD7jLV+QUZgdJpDUh3NASw/d+bZ\naaKENuh0mYk0Uluzq5LOgx0CqOgoNn38PYw8cb2vjac5ua5EkdnOJTzeWNX5RAVm\nOknJCzUwG38iLJ7DYx75u0HHrdtD+00ssYND1MFRsfYOMzEAeEkguUECgYAH7vj5\ntjKU4yYQQFbZtqekrdN6Uu3dtnRLlga0oNV2REwfJvP+z8rQYAEG6NizbdXJ4lrd\ncarboh5h6yk0mkjDA7IoBSs0h/7oAGcThnJHLc/QOIIAKVCqDydnAdIs8xrdS8XI\nDh2BAUh7igZcO42Lo34i99ON5MisciztyBZfeQKBgGUL8GyYd0OIH6u7Iu3vQQZv\nfc2VUc0Im4uK0d+41RlWIkkqR759enfLo1tQzIAgZLrao5pjPSkvzc8O2tRqXSuO\nlZx5sF0OSJy3WF+Q6KS/bcsXo3Cxpi+Y1UBi3Ulq6O1tY2uatJ0QN/L9km3Lb7zi\nLhhBy0abZBbySY0jCdAp\n-----END PRIVATE KEY-----\n",
+  "client_email": "gown-celery2hybrid@cedar-lexicon-312307.iam.gserviceaccount.com",
+  "client_id": "101955120227701456949",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gown-celery2hybrid%40cedar-lexicon-312307.iam.gserviceaccount.com"
+}
